@@ -1,0 +1,17 @@
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+sdist
+develop-eggs
+pip-log.txt
+.project
+.editor
+.pydevproject
+.env
+cex.cnf
+cex.db
+*.pyc
+setup.cfg
+build
